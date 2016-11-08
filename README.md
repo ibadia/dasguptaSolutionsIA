@@ -1,4 +1,9 @@
 # dasguptaSolutionsIA
+IBAD UR RAHMAN
+FAST-NUCES khi
+Junior Student
+
+
 I have added some solutions to dasgupa exercises in the repository. You can check them for any error and fix them too.
 Kindly Add any new solutions you want in this format
 
